@@ -1,0 +1,59 @@
+.job-details-bg {
+  background-color: #000000;
+  height: max-content;
+  min-height: 100vh;
+  width: 100vw;
+  padding: 30px;
+  padding-left: 5vw;
+  padding-right: 60px;
+}
+
+.life-at-company-bg {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  background-size: cover;
+  border-width: 0px;
+  border-radius: 10px;
+  height: max-content;
+  width: 80vw;
+  padding: 30px;
+  margin: 30px;
+  margin-left: 60px;
+}
+
+.link {
+  color: #6366f1;
+  font-family: Roboto;
+}
+
+.job-details-link {
+  display: flex;
+  justify-content: space-between;
+}
+
+.life-at-company-description {
+  color: #f1f5f9;
+  font-family: Roboto;
+  width: 50vw;
+}
+
+.life-at-company-image {
+  height: 30vh;
+  width: auto;
+  border-width: 0px;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+
+.skill-ul {
+  list-style: none;
+  display: flex;
+}
+
+.life-at-company-company-heading {
+  font-family: Roboto;
+  color: #f1f5f9;
+  font-size: 18px;
+  margin-left: 70px;
+}

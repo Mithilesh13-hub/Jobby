@@ -1,0 +1,13 @@
+.skill-card {
+  display: flex;
+  align-items: center;
+  width: 400px;
+  padding: 20px;
+
+}
+.skill-heading {
+  font-family: Roboto;
+  color: #f1f5f9;
+  font-size: 18px;
+  margin: 10px;
+}

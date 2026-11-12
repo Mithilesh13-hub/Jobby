@@ -1,0 +1,13 @@
+.similar-jobview-list {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  background-size: cover;
+  border-width: 0px;
+  border-radius: 10px;
+  height: auto;
+  max-height: 50vh;
+  width: 20vw;
+  padding: 30px;
+  margin: 20px;
+}
